@@ -1,0 +1,3 @@
+/Users/prathamkailasiya/Desktop/summer/acm/os_scheduler_simulator/build/CMakeFiles/OS_Scheduler_Simulator.dir
+/Users/prathamkailasiya/Desktop/summer/acm/os_scheduler_simulator/build/CMakeFiles/edit_cache.dir
+/Users/prathamkailasiya/Desktop/summer/acm/os_scheduler_simulator/build/CMakeFiles/rebuild_cache.dir
