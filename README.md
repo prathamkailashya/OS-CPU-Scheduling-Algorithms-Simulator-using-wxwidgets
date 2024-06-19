@@ -7,3 +7,4 @@ make
 
 3. ./OS_Scheduler_Simulator       
 
+4.Screenshots in master
